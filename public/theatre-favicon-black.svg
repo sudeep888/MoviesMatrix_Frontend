@@ -1,0 +1,15 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Black Background -->
+  <rect width="64" height="64" fill="#000000"/>
+
+  <!-- Red Play Triangle -->
+  <polygon
+    points="24,16 24,48 48,32"
+    fill="#E50914"
+  />
+</svg>
