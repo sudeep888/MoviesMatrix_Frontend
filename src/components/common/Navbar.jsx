@@ -157,7 +157,7 @@ export default function Navbar() {
               "'Bebas Neue', sans-serif",
           }}
         >
-          The Theatre
+          Movies Matrix
         </h1>
       </Link>
 
